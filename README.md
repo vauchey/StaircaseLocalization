@@ -5,12 +5,14 @@ The project ARGOS Viking, one of the objectives of which was to cross a staircas
 [![](https://img.youtube.com/vi/wie3POxmbGI/1.jpg)](https://www.youtube.com/watch?v=wie3POxmbGI)
 
 
-Fourre Jérémy¹, Yohan Dupuis¹, Vincent VAUCHEY¹, Xavier SAVATIER¹.  
+Jérémy FOURRE¹, Yohan DUPUIS¹, Vincent VAUCHEY¹, Xavier SAVATIER¹.  
 ¹[ESIGELEC](http://www.esigelec.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN,   
-vauchey@esigelec.fr
-dupuis@esigelec.fr
+
 fourre@esigelec.fr
+dupuis@esigelec.fr
+vauchey@esigelec.fr
 savatier@esigelec.fr
+
 
 # Datasets
 Dataset RGBD Camera done by [ESIGELEC](http://www.esigelec.fr/)
@@ -24,5 +26,4 @@ List of sensors and software used :
 
 Result obtained on industrial staircase with no riser and drilled tread :
 ![](images/3dESCFER.png )
-Result ovtained on wood staircase :
-![](images/3dESCBOI.png )
+
