@@ -13,7 +13,6 @@ This paper presents an industrial staircase localization algorithm based on RGBD
 
 
 
-
 Jérémy FOURRE¹, Yohan DUPUIS¹, Vincent VAUCHEY¹, Xavier SAVATIER¹.  
 ¹[ESIGELEC](http://www.esigelec.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN,   
 
