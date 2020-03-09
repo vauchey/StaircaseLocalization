@@ -27,6 +27,14 @@ Special Thanks to the members of the [SIRD](http://www.esigelec.fr/en/node/113) 
 Dataset RGBD Camera done by [ESIGELEC](http://www.esigelec.fr/)
 
 
+
+
+Dataset|[Distance IRON 2](https://esigelec-my.sharepoint.com/:u:/g/personal/vauchey_esigelec_fr/EfAxcFk9cNhMlJXKxARsQ1wB4WQnwim8kuPU5h8VrJpkmg?e=hVtwIw)|[Angle IRON 2](https://esigelec-my.sharepoint.com/:u:/g/personal/vauchey_esigelec_fr/EZbpdJKZDBRLiMnnpOpUJoUB3VnpQRvKI1gEMUJwZ_9qfA?e=jdL4i1)
+:-: |:-: | :-:
+Distance (m)|$d\in\{0.5,0.6,\cdots,2.0\}$|1.0
+Angle (deg)|0.0|$a\in\{-40,-30,\cdots,40\}$
+
+
 List of sensors and software used :
 * D415 trigged on IMU ([intelrealsense](https://www.intelrealsense.com/depth-camera-d435))
 * RTMAPS ([Intempora](https://intempora.com/)) Realtime acquisition software (can also be used to replay datasets)
